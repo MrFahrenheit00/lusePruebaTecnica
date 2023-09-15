@@ -1,0 +1,1 @@
+Prueba técnica de Lisu Ingeniería Para iniciar el servicio desde PowerShell ir a la carpeta y ejecutar el comando: node aplicacion.js Una vez iniciado el servicio, abrir el projecto de la carpeta "programaWindowsForms" desde VisualStudio e iniciar la aplicación. Pasos a seguir en el vídeo adjuntado.
